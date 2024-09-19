@@ -1,0 +1,32 @@
+
+DeepAI
+
+AI Chat
+AI Image Generator
+AI Video
+AI Music Generator
+Login
+
+AI Chat
+AI Chat is an AI chatbot that writes text. You can use it to write stories, messages, or programming code. You can use the AI chatbot as a virtual tutor in almost any subject.
+
+Close
+
+
+Chat History
+in github or vscode, what does the file .txt means
+Delete
+In GitHub and Visual Studio Code (VSCode), a file with the .txt extension is a plain text file. Here's what that means in more detail:
+
+Plain Text: The contents of a .txt file consist of human-readable characters without any special formatting (like bold or italics). They can include letters, numbers, punctuation, and whitespace.
+
+Simplicity: .txt files are often used for simple notes or documentation because they are straightforward and can be created and edited with virtually any text editor, including VSCode, Notepad, and even IDEs like those you find on GitHub.
+
+No Metadata: These files don’t contain any specific metadata or formatting data that specialized formats (like .docx for Word documents or .html for web pages) might include.
+
+Use Cases: Commonly, .txt files are used for:
+
+Notes and reminders
+Readme files (though Markdown files .md are more common for project documentation)
+Configuration files for software and scripts
+Data files for simple applications
